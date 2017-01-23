@@ -21,7 +21,8 @@ For students, follow these steps:
 - ID#:204554372
 - github username: tzofiaCo
 - Estimation of hours I worked on it: 1   עשיתי את התרגיל פעם אחת אך היו בו כמה טעויות לכן עשיתי זאת שנית ולכן אבקש להתייחס רק לשינויים האחרונים.תודה רבה!!  
-(the latest 12 commits)  
+(the latest 12 commits)   
+Link to travis:https://travis-ci.org/jce-il/learn-mocha
 
 
 
